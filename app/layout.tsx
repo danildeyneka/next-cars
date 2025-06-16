@@ -8,7 +8,7 @@ const geistSans = Geist({
 });
 
 export const metadata: Metadata = {
-  title: 'Create Next App',
+  title: 'Next Cars',
   description: 'Created by Danila Deyneka',
 };
 
